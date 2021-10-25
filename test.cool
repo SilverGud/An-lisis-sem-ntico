@@ -1,0 +1,6 @@
+class Main { 
+    variable : Bool;
+    main() : Bool {
+       1 + 1
+    }; 
+};
